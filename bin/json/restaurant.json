@@ -1,0 +1,27 @@
+{
+  "name": "Saravana Bhavan",
+  "open": true,
+  "address": {
+    "lane": "Ekedalsvägen",
+    "doorNum": 81,
+    "pinCode": 17759
+  },
+  "menu": [
+    {
+      "name": "Idly",
+      "cost": 5,
+      "ingredients": [
+        "Rava",
+        "Chuttney"
+      ]
+    },
+    {
+      "name": "Dosa",
+      "cost": 10,
+      "ingredients": [
+        "Rice",
+        "Dhal"
+      ]
+    }
+  ]
+}

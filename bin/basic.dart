@@ -18,6 +18,8 @@ void main() {
   print(a is int);
   print(a is! double);
   print(b is! double);
+  print(b is! int);
+
   print('--------------------------');
 
   var c;
