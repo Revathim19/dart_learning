@@ -1,5 +1,5 @@
 void main() {
-  print('hello worls');
+  print('hello world');
 
   const number = 10;
   final value = 9;

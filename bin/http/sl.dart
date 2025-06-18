@@ -20,7 +20,7 @@ Future<void> main() async {
 
   //dynamic json= jsonDecode(response.body);
   Map json = jsonDecode(response.body);
-  //print(json);
+  print(json);
   List departures = json['departures'];
   for (int i=0;i<departures.length; i++) {
     Map departure = departures[i];

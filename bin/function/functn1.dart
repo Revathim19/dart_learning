@@ -3,7 +3,7 @@ void main(){
  int area= getArea(3,4);
  print("the value of area is  $area");
  printCountries("India", "Sweden");
- say("revati", "Love U");
+ say("revati", "LoveU");
 
 }
 void findPerimeter(int length, int width) => print("The vaile of perimeter is ${2*(length+width)}");

@@ -35,6 +35,7 @@ void main() {
       ]);
   List<String> ingredients = ['Rava', 'Chuttney'];
   String ingredientsJson = jsonEncode(ingredients);
+  print('-----------');
   print(ingredientsJson);
   Map saravana1 = {
     "name": "Saravana",
